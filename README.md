@@ -11,7 +11,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
+1. **Portfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Livro de receitas fit
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Livro de receitas fit com imagens e receitas geradas por Inteligência Artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini (criação de receitas e imagens)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação de comandos para criação de receitas e imagens
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Livro de receitas fit
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
