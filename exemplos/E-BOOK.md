@@ -1,7 +1,7 @@
 # E-book de receitas fit
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book traz 10 receitas fit (5 salgadas e 5 doces) com ingredientes, modo de preparo, dicas e ilustrações.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Gemini](https://gemini.google.com/)** para criação de conteúdo e arte visual.
