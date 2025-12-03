@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# E-book de receitas fit
 
 ## 📒 Descrição
 Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
@@ -13,7 +13,7 @@ Utilizei o "Gemini" para criar imagens, elaborar e estruturar o conteúdo.
 ## 🚀 Resultados
 O e-book foi criado com o seguinte prompt: elabore 5 receitas salgadas fit (macarrão com filet suíno, brócolis e molho branco, fricassê de frango com cenoura, strogonoff de carne, lasanha e cornbread) e 5 receitas doces fit (bolo de chocolate, bolo de floresta negra, bolo de cenoura com cobertura de chocolate, panqueca e mousse de maracujá), com os ingredientes, modo de preparo e descrição de imagem.
 
-Prompt para criação das imagens:
+Prompts para criação das imagens:
 Um prato fundo de cerâmica branca contendo macarrão penne integral envolto em um molho branco cremoso, mas leve. Pedaços suculentos e dourados de carne suína estão misturados à massa, contrastando com o verde vibrante dos floretes de brócolis frescos. Uma leve chuva de pimenta-do-reino moída na hora decora o topo.
 
 Uma travessa de vidro saindo do forno, mostrando o fricassê borbulhante com uma crosta de queijo dourada. Ao servir uma colherada, vê-se o interior super cremoso e amarelado, com os fiapos de frango misturados aos fios laranjas da cenoura ralada, criando um visual colorido e apetitoso. Ao lado, alguns chips de batata doce assada para dar crocância.
